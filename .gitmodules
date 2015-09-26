@@ -1,6 +1,0 @@
-[submodule "yii2"]
-	path = yii2
-	url = git://github.com/yiisoft/yii2.git
-[submodule "rsvps"]
-	path = rsvps
-	url = git://github.com/yiisoft/yii2-app-basic.git
