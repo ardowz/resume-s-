@@ -1,0 +1,257 @@
+$mobile-w: 600px;
+
+html,
+body{
+    height:100%;
+}
+
+.btn-custom {
+    color: white;
+    background-color: rgba(0,0,0,0.35);
+    border: 2px solid white !important;
+    border-radius: 0px !important;
+    width: 120px;
+    transition:background 0.3s ease;
+    
+    &:hover {
+        background-color: transparent;
+    }
+}
+
+/**
+* NAVBAR
+**/
+.navbar {
+    background-color:rgba(0,0,0,.35);
+    
+    .navbar-brand {
+        color: white !important;
+        
+        img {
+            display: inline;
+            margin-bottom: 5px;
+        }
+    }
+    
+    #navbar-aboutUs {
+        cursor:pointer;
+        padding-top:5px;
+    }
+    
+    #navbar-aboutUs:hover {
+        text-decoration:none;
+    }
+    
+    #navbar-aboutUs:hover {
+        background-color: rgba(0,0,0,0.35);
+    }
+    #navbar-aboutUs {
+        cursor: pointer;
+        padding-top: 5px;
+        color: white;
+        border: 2px solid white;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        margin-right: 20px;
+        
+    }
+}
+
+/**
+* SPLASH LANDING
+**/
+#splash-landing {
+    height:100%;
+    padding-top:0px;
+    
+    .bigLandingPic {
+        color:white;
+        background-image:url("../img/splash-background-min.jpeg");
+        height:100%;
+        background-size:cover;
+        background-attachment:fixed;
+    }
+    
+    .positive-message {
+        position:relative;
+        top:40%;
+        
+        .text{
+            font-size:30px;
+            font-family: 'Noto Sans', sans-serif;
+            text-transform:lowercase;
+            background-color: rgba(0,0,0,.35);
+            padding:10px;
+            margin:0 auto;
+            width:500px;
+        }
+    }
+    
+    .main-buttons{
+        position:relative;
+        top: calc(100% - 200px);
+    }
+    
+    @media(max-width: $mobile-w) {
+        .positive-message {
+            top:20%;
+            
+            .text{
+                width:250px;
+            }
+        }
+        
+        .main-buttons{
+            top: calc(100% - 300px);
+        }
+    }
+    
+    .btn-upload{
+        color: white;
+        background-color: rgba(0,0,0,0.35);
+        border: 2px solid white !important;
+        border-radius: 0px !important;
+        width: 120px;
+        transition:background 0.3s ease;
+        
+        &:focus {
+            outline:none;
+        }
+        
+        &:hover {
+            background-color: transparent;
+        } 
+    }
+    .btn-search{
+        color: white;
+        background-color: rgba(0,0,0,0.35);
+        border: 2px solid white !important;
+        border-radius: 0px !important;
+        width: 120px;
+        transition:background 0.3s ease;
+        
+        &:focus {
+            outline:none;
+        }
+        
+        &:hover {
+            background-color: transparent;
+        }
+    }
+}
+
+/**
+* SPLASH SEARCH
+**/
+#splash-upload {
+    .addNewCandidateBtn {
+        min-height:150px;
+        width:100%;
+    }
+    
+    .dropzone {
+        min-height: 192px !important;
+        background-color:transparent;
+    }
+    
+    .btn-next{
+        color: rgba(0,0,0,0.35);
+        background-color: rgba(250,235,215,0.5);
+        border: 2px solid rgba(0,0,0,0.35) !important;
+        border-radius: 0px !important;
+        transition:background 0.3s ease;
+        min-height: 192px;
+        font-size:1.5rem;
+        
+        &:focus {
+            outline:none;
+        }
+        
+        &:hover {
+            background-color: transparent;
+        }
+    }
+}
+
+/**
+* SPLASH UPLOAD
+**/
+#splash-search {
+    .pic {
+        background-color:blue;
+        height:100px;
+    }
+    
+    .data {
+        background-color:orange;
+        height:100px;
+    }
+    
+    .input-group {
+        input,
+        .btn {
+            padding:20px !important;
+            font-size: 1.5rem;
+        }
+        
+        .btn {
+            color:white;
+        }
+    }
+      .btn-query{
+        color: rgba(0,0,0,0.35) !important;
+        background-color: rgba(250,235,215,0.5);
+        border: 1px solid rgba(0,0,0,0.35) !important;
+        border-radius: 0px !important;
+        transition:background 0.3s ease;
+        font-size:1.5rem;
+        
+        &:focus {
+            outline:none;
+        }
+        
+        &:hover {
+            background-color: transparent;
+        }
+    }
+}
+
+#splash-upload,
+#splash-search {
+    padding-top:30px;
+    padding-bottom:30px;
+    background-image:url('../img/linedpaper_@2x.png');
+}
+
+/**
+*HELPER CLASSES
+**/
+.hidden {
+    display:none;
+}
+
+.margin-top-sm {
+    margin-top:15px;
+}
+
+//enable absolute positioning
+.inner-addon { 
+    position: relative; 
+}
+
+//style icon
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none;
+}
+
+//align icon
+.left-addon .glyphicon  { left:  0px;}
+.right-addon .glyphicon { right: 0px;}
+
+//add padding
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }

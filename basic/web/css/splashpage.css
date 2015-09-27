@@ -1,0 +1,183 @@
+html,
+body {
+  height: 100%; }
+
+.btn-custom {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.35);
+  border: 2px solid white !important;
+  border-radius: 0px !important;
+  width: 120px;
+  transition: background 0.3s ease; }
+  .btn-custom:hover {
+    background-color: transparent; }
+
+/**
+* NAVBAR
+**/
+.navbar {
+  background-color: rgba(0, 0, 0, 0.35); }
+  .navbar .navbar-brand {
+    color: white !important; }
+    .navbar .navbar-brand img {
+      display: inline;
+      margin-bottom: 5px; }
+  .navbar #navbar-aboutUs {
+    cursor: pointer;
+    padding-top: 5px; }
+  .navbar #navbar-aboutUs:hover {
+    text-decoration: none; }
+  .navbar #navbar-aboutUs:hover {
+    background-color: rgba(0, 0, 0, 0.35); }
+  .navbar #navbar-aboutUs {
+    cursor: pointer;
+    padding-top: 5px;
+    color: white;
+    border: 2px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px; }
+
+/**
+* SPLASH LANDING
+**/
+#splash-landing {
+  height: 100%;
+  padding-top: 0px; }
+  #splash-landing .bigLandingPic {
+    color: white;
+    background-image: url("../img/splash-background-min.jpeg");
+    height: 100%;
+    background-size: cover;
+    background-attachment: fixed; }
+  #splash-landing .positive-message {
+    position: relative;
+    top: 40%; }
+    #splash-landing .positive-message .text {
+      font-size: 30px;
+      font-family: 'Noto Sans', sans-serif;
+      text-transform: lowercase;
+      background-color: rgba(0, 0, 0, 0.35);
+      padding: 10px;
+      margin: 0 auto;
+      width: 500px; }
+  #splash-landing .main-buttons {
+    position: relative;
+    top: calc(100% - 200px); }
+  @media (max-width: 600px) {
+    #splash-landing .positive-message {
+      top: 20%; }
+      #splash-landing .positive-message .text {
+        width: 250px; }
+    #splash-landing .main-buttons {
+      top: calc(100% - 300px); } }
+  #splash-landing .btn-upload {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.35);
+    border: 2px solid white !important;
+    border-radius: 0px !important;
+    width: 120px;
+    transition: background 0.3s ease; }
+    #splash-landing .btn-upload:focus {
+      outline: none; }
+    #splash-landing .btn-upload:hover {
+      background-color: transparent; }
+  #splash-landing .btn-search {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.35);
+    border: 2px solid white !important;
+    border-radius: 0px !important;
+    width: 120px;
+    transition: background 0.3s ease; }
+    #splash-landing .btn-search:focus {
+      outline: none; }
+    #splash-landing .btn-search:hover {
+      background-color: transparent; }
+
+/**
+* SPLASH SEARCH
+**/
+#splash-upload .addNewCandidateBtn {
+  min-height: 150px;
+  width: 100%; }
+#splash-upload .dropzone {
+  min-height: 192px !important;
+  background-color: transparent; }
+#splash-upload .btn-next {
+  color: rgba(0, 0, 0, 0.35);
+  background-color: rgba(250, 235, 215, 0.5);
+  border: 2px solid rgba(0, 0, 0, 0.35) !important;
+  border-radius: 0px !important;
+  transition: background 0.3s ease;
+  min-height: 192px;
+  font-size: 1.5rem; }
+  #splash-upload .btn-next:focus {
+    outline: none; }
+  #splash-upload .btn-next:hover {
+    background-color: transparent; }
+
+/**
+* SPLASH UPLOAD
+**/
+#splash-search .pic {
+  background-color: blue;
+  height: 100px; }
+#splash-search .data {
+  background-color: orange;
+  height: 100px; }
+#splash-search .input-group input,
+#splash-search .input-group .btn {
+  padding: 20px !important;
+  font-size: 1.5rem; }
+#splash-search .input-group .btn {
+  color: white; }
+#splash-search .btn-query {
+  color: rgba(0, 0, 0, 0.35) !important;
+  background-color: rgba(250, 235, 215, 0.5);
+  border: 1px solid rgba(0, 0, 0, 0.35) !important;
+  border-radius: 0px !important;
+  transition: background 0.3s ease;
+  font-size: 1.5rem; }
+  #splash-search .btn-query:focus {
+    outline: none; }
+  #splash-search .btn-query:hover {
+    background-color: transparent; }
+
+#splash-upload,
+#splash-search {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-image: url("../img/linedpaper_@2x.png"); }
+
+/**
+*HELPER CLASSES
+**/
+.hidden {
+  display: none; }
+
+.margin-top-sm {
+  margin-top: 15px; }
+
+.inner-addon {
+  position: relative; }
+
+.inner-addon .glyphicon {
+  position: absolute;
+  padding: 10px;
+  pointer-events: none; }
+
+.left-addon .glyphicon {
+  left: 0px; }
+
+.right-addon .glyphicon {
+  right: 0px; }
+
+.left-addon input {
+  padding-left: 30px; }
+
+.right-addon input {
+  padding-right: 30px; }
+
+/*# sourceMappingURL=splashpage.css.map */

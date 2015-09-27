@@ -1,0 +1,41 @@
+/*!
+ * Start Bootstrap - Round About HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+.navbar {
+  background-color: rgba(0, 0, 0, 0.35); }
+  .navbar .navbar-brand {
+    color: white !important; }
+    .navbar .navbar-brand img {
+      display: inline;
+      margin-bottom: 5px; }
+  .navbar #navbar-aboutUs {
+    cursor: pointer;
+    padding-top: 5px; }
+  .navbar #navbar-aboutUs:hover {
+    text-decoration: none; }
+  .navbar #navbar-aboutUs:hover {
+    background-color: rgba(0, 0, 0, 0.35); }
+  .navbar #navbar-aboutUs {
+    cursor: pointer;
+    padding-top: 5px;
+    color: white;
+    border: 2px solid white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-right: 20px; }
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.img-center {
+	margin: 0 auto;
+}
+
+.img-circle{
+    height: 160px;
+    width: 160px;
+}

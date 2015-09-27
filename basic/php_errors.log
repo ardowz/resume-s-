@@ -1,0 +1,738 @@
+[26-Sep-2015 20:28:04 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:28:04 UTC] PHP Stack trace:
+[26-Sep-2015 20:28:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:21 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:21 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:27 UTC] PHP Parse error:  syntax error, unexpected ''params'' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/basic/config/web.php on line 41
+[26-Sep-2015 20:29:27 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:38 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:39 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:39 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:39 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:40 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:40 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:40 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:41 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:41 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:41 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:41 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:41 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:42 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:42 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:42 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:55 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:55 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:56 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:56 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:29:57 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:29:57 UTC] PHP Stack trace:
+[26-Sep-2015 20:29:57 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:15 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:15 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:15 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:27 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:27 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:28 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:28 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:29 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:29 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:29 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:29 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:29 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:30 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:30 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:30 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:30 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:30 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:30 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:31 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:31 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:32 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:32 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:49 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:49 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:50 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:50 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:50 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:30:51 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:30:51 UTC] PHP Stack trace:
+[26-Sep-2015 20:30:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:05 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:05 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:05 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:05 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:37 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:37 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:38 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:38 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:45 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:45 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:46 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:46 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:46 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:46 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:48 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:48 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:31:59 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:31:59 UTC] PHP Stack trace:
+[26-Sep-2015 20:31:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:00 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:00 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:01 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:01 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:09 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:09 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:10 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:10 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:10 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:10 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:11 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:11 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:11 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:11 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:12 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:12 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:32:12 UTC] PHP Parse error:  syntax error, unexpected ',' in /home/ubuntu/workspace/basic/config/web.php on line 40
+[26-Sep-2015 20:32:12 UTC] PHP Stack trace:
+[26-Sep-2015 20:32:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:42:38 UTC] PHP Parse error:  syntax error, unexpected ''asasa'' (T_CONSTANT_ENCAPSED_STRING) in /home/ubuntu/workspace/basic/views/site/say.php on line 5
+[26-Sep-2015 20:42:38 UTC] PHP Stack trace:
+[26-Sep-2015 20:42:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 20:42:38 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 20:42:38 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 20:42:38 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 20:42:38 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 20:42:38 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 20:42:38 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 20:42:38 UTC] PHP   8. app\controllers\SiteController->actionSay() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 20:42:38 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:97
+[26-Sep-2015 20:42:38 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 20:42:38 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 20:42:38 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 20:54:49 UTC] PHP Parse error:  syntax error, unexpected ''<controller:\w+>/<action:\w+>' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/ubuntu/workspace/basic/config/web.php on line 46
+[26-Sep-2015 20:54:49 UTC] PHP Stack trace:
+[26-Sep-2015 20:54:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:09 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/basic/views/site/index.php on line 6
+[26-Sep-2015 21:00:09 UTC] PHP Stack trace:
+[26-Sep-2015 21:00:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:09 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:00:09 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:00:09 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:00:09 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:00:09 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:00:09 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:09 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:09 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[26-Sep-2015 21:00:09 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:00:09 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:00:09 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 21:00:11 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/basic/views/site/index.php on line 6
+[26-Sep-2015 21:00:11 UTC] PHP Stack trace:
+[26-Sep-2015 21:00:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:11 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:00:11 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:00:11 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:00:11 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:00:11 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:00:11 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:11 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:11 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[26-Sep-2015 21:00:11 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:00:11 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:00:11 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 21:00:12 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/basic/views/site/index.php on line 6
+[26-Sep-2015 21:00:12 UTC] PHP Stack trace:
+[26-Sep-2015 21:00:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:12 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:00:12 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:00:12 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:00:12 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:00:12 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:00:12 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:12 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:12 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[26-Sep-2015 21:00:12 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:00:12 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:00:12 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 21:00:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/basic/views/site/index.php on line 6
+[26-Sep-2015 21:00:13 UTC] PHP Stack trace:
+[26-Sep-2015 21:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:13 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:00:13 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:00:13 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:00:13 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:00:13 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:00:13 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:13 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:13 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[26-Sep-2015 21:00:13 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:00:13 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:00:13 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 21:00:13 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/basic/views/site/index.php on line 6
+[26-Sep-2015 21:00:13 UTC] PHP Stack trace:
+[26-Sep-2015 21:00:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:13 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:00:13 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:00:13 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:00:13 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:00:13 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:00:13 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:13 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:13 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[26-Sep-2015 21:00:13 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:00:13 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:00:13 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 21:00:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/basic/views/site/index.php on line 6
+[26-Sep-2015 21:00:14 UTC] PHP Stack trace:
+[26-Sep-2015 21:00:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:14 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:00:14 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:00:14 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:00:14 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:00:14 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:00:14 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:14 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:14 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[26-Sep-2015 21:00:14 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:00:14 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:00:14 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 21:00:14 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/basic/views/site/index.php on line 6
+[26-Sep-2015 21:00:14 UTC] PHP Stack trace:
+[26-Sep-2015 21:00:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:14 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:00:14 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:00:14 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:00:14 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:00:14 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:00:14 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:14 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:14 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[26-Sep-2015 21:00:14 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:00:14 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:00:14 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 21:00:18 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/basic/views/site/index.php on line 6
+[26-Sep-2015 21:00:18 UTC] PHP Stack trace:
+[26-Sep-2015 21:00:18 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:00:18 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:00:18 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:00:18 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:00:18 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:00:18 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:00:18 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:18 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:00:18 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[26-Sep-2015 21:00:18 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:00:18 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:00:18 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[26-Sep-2015 21:27:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/ubuntu/workspace/basic/views/site/index.php on line 5
+[26-Sep-2015 21:27:28 UTC] PHP Stack trace:
+[26-Sep-2015 21:27:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[26-Sep-2015 21:27:28 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[26-Sep-2015 21:27:28 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[26-Sep-2015 21:27:28 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[26-Sep-2015 21:27:28 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[26-Sep-2015 21:27:28 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[26-Sep-2015 21:27:28 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:27:28 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[26-Sep-2015 21:27:28 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:56
+[26-Sep-2015 21:27:28 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[26-Sep-2015 21:27:28 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[26-Sep-2015 21:27:28 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[27-Sep-2015 00:06:42 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/config/web.php on line 69
+[27-Sep-2015 00:06:42 UTC] PHP Stack trace:
+[27-Sep-2015 00:06:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 00:12:07 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/ubuntu/workspace/basic/config/web.php on line 61
+[27-Sep-2015 00:12:07 UTC] PHP Stack trace:
+[27-Sep-2015 00:12:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:00:00 UTC] PHP Fatal error:  Class 'Html' not found in /home/ubuntu/workspace/basic/views/api/apiindex.php on line 4
+[27-Sep-2015 02:00:00 UTC] PHP Stack trace:
+[27-Sep-2015 02:00:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:00:00 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:00:00 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:00:00 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:00:00 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 02:00:00 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 02:00:00 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:00:00 UTC] PHP   8. app\controllers\ApiController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:00:00 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/ApiController.php:34
+[27-Sep-2015 02:00:00 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[27-Sep-2015 02:00:00 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[27-Sep-2015 02:00:00 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[27-Sep-2015 02:00:00 UTC] PHP  13. require() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:325
+[27-Sep-2015 02:07:20 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 59
+[27-Sep-2015 02:07:20 UTC] PHP Stack trace:
+[27-Sep-2015 02:07:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:07:20 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:07:20 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:07:20 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:07:20 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 02:07:20 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 02:07:20 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:07:20 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:07:20 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:07:22 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 59
+[27-Sep-2015 02:07:22 UTC] PHP Stack trace:
+[27-Sep-2015 02:07:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:07:22 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:07:22 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:07:22 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:07:22 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 02:07:22 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 02:07:22 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:07:22 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:07:22 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:06 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 59
+[27-Sep-2015 02:09:06 UTC] PHP Stack trace:
+[27-Sep-2015 02:09:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:09:06 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:09:06 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:09:06 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:09:06 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 02:09:06 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 02:09:06 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:06 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:06 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:11 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 59
+[27-Sep-2015 02:09:11 UTC] PHP Stack trace:
+[27-Sep-2015 02:09:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:09:11 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:09:11 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:09:11 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:09:11 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 02:09:11 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 02:09:11 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:11 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:11 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:14 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 59
+[27-Sep-2015 02:09:14 UTC] PHP Stack trace:
+[27-Sep-2015 02:09:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:09:14 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:09:14 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:09:14 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:09:14 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 02:09:14 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 02:09:14 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:14 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:14 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 02:09:34 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 56
+[27-Sep-2015 02:09:34 UTC] PHP Stack trace:
+[27-Sep-2015 02:09:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:09:34 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:09:34 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:09:34 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:09:34 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 02:09:34 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 02:09:34 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:09:34 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:09:34 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 56
+[27-Sep-2015 02:09:34 UTC] PHP Stack trace:
+[27-Sep-2015 02:09:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:09:34 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:09:34 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:09:34 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:09:34 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 02:09:34 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 02:09:34 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:09:34 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:09:36 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 56
+[27-Sep-2015 02:09:36 UTC] PHP Stack trace:
+[27-Sep-2015 02:09:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:09:36 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:09:36 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:09:36 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:09:36 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 02:09:36 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 02:09:36 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:09:36 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:09:41 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 56
+[27-Sep-2015 02:09:41 UTC] PHP Stack trace:
+[27-Sep-2015 02:09:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:09:41 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:09:41 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:09:41 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:09:41 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 02:09:41 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 02:09:41 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:09:41 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:10:26 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 56
+[27-Sep-2015 02:10:26 UTC] PHP Stack trace:
+[27-Sep-2015 02:10:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:10:26 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:10:26 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:10:26 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:10:26 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 02:10:26 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 02:10:26 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:10:26 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:12:04 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 56
+[27-Sep-2015 02:12:04 UTC] PHP Stack trace:
+[27-Sep-2015 02:12:04 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:12:04 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:12:04 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:12:04 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:12:04 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 02:12:04 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 02:12:04 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:12:04 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:12:48 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/SiteController.php on line 57
+[27-Sep-2015 02:12:48 UTC] PHP Stack trace:
+[27-Sep-2015 02:12:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 02:12:48 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 02:12:48 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 02:12:48 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 02:12:48 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 02:12:48 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 02:12:48 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 02:12:48 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:35:23 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 23
+[27-Sep-2015 03:35:23 UTC] PHP Stack trace:
+[27-Sep-2015 03:35:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 03:35:23 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 03:35:23 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 03:35:23 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 03:35:23 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 03:35:23 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 03:35:23 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:35:23 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:37:44 UTC] PHP Fatal error:  Class 'app\controllers\Candidates' not found in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 23
+[27-Sep-2015 03:37:44 UTC] PHP Stack trace:
+[27-Sep-2015 03:37:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 03:37:44 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 03:37:44 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 03:37:44 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 03:37:44 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 03:37:44 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 03:37:44 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:37:44 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:57:01 UTC] PHP Fatal error:  Class 'app\models\TimestampBehavior' not found in /home/ubuntu/workspace/basic/models/CandidatesFiles.php on line 61
+[27-Sep-2015 03:57:01 UTC] PHP Stack trace:
+[27-Sep-2015 03:57:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 03:57:01 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 03:57:01 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 03:57:01 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 03:57:01 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 03:57:01 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 03:57:01 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:57:01 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:57:01 UTC] PHP   9. yii\base\Object->__construct() /home/ubuntu/workspace/basic/controllers/ApiController.php:35
+[27-Sep-2015 03:57:01 UTC] PHP  10. yii\db\BaseActiveRecord->init() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Object.php:107
+[27-Sep-2015 03:57:01 UTC] PHP  11. yii\base\Component->trigger() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/db/BaseActiveRecord.php:848
+[27-Sep-2015 03:57:01 UTC] PHP  12. yii\base\Component->ensureBehaviors() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Component.php:529
+[27-Sep-2015 03:57:01 UTC] PHP  13. app\models\CandidatesFiles->behaviors() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Component.php:646
+[27-Sep-2015 03:57:22 UTC] PHP Fatal error:  Class 'app\models\TimestampBehavior' not found in /home/ubuntu/workspace/basic/models/CandidatesFiles.php on line 61
+[27-Sep-2015 03:57:22 UTC] PHP Stack trace:
+[27-Sep-2015 03:57:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 03:57:22 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 03:57:22 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 03:57:22 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 03:57:22 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 03:57:22 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 03:57:22 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:57:22 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 03:57:22 UTC] PHP   9. yii\base\Object->__construct() /home/ubuntu/workspace/basic/controllers/ApiController.php:35
+[27-Sep-2015 03:57:22 UTC] PHP  10. yii\db\BaseActiveRecord->init() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Object.php:107
+[27-Sep-2015 03:57:22 UTC] PHP  11. yii\base\Component->trigger() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/db/BaseActiveRecord.php:848
+[27-Sep-2015 03:57:22 UTC] PHP  12. yii\base\Component->ensureBehaviors() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Component.php:529
+[27-Sep-2015 03:57:22 UTC] PHP  13. app\models\CandidatesFiles->behaviors() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Component.php:646
+[27-Sep-2015 04:15:31 UTC] PHP Fatal error:  Class 'app\controllers\Url' not found in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 43
+[27-Sep-2015 04:15:31 UTC] PHP Stack trace:
+[27-Sep-2015 04:15:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 04:15:31 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 04:15:31 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 04:15:31 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 04:15:31 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 04:15:31 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 04:15:31 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 04:15:31 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 04:25:28 UTC] PHP Fatal error:  Class 'app\controllers\Yii' not found in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 45
+[27-Sep-2015 04:25:28 UTC] PHP Stack trace:
+[27-Sep-2015 04:25:28 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 04:25:28 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 04:25:28 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 04:25:28 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 04:25:28 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 04:25:28 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 04:25:28 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 04:25:28 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 05:44:01 UTC] PHP Fatal error:  Class 'app\controllers\Url' not found in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 42
+[27-Sep-2015 05:44:01 UTC] PHP Stack trace:
+[27-Sep-2015 05:44:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 05:44:01 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 05:44:01 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 05:44:01 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 05:44:01 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 05:44:01 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 05:44:01 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 05:44:01 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 05:45:47 UTC] PHP Fatal error:  Class 'app\controllers\Yii' not found in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 44
+[27-Sep-2015 05:45:47 UTC] PHP Stack trace:
+[27-Sep-2015 05:45:47 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 05:45:47 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 05:45:47 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 05:45:47 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 05:45:47 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 05:45:47 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 05:45:47 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 05:45:47 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:17:12 UTC] PHP Parse error:  syntax error, unexpected ''ApiKey'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' in /home/ubuntu/workspace/basic/config/params.php on line 7
+[27-Sep-2015 15:17:12 UTC] PHP Stack trace:
+[27-Sep-2015 15:17:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 15:17:12 UTC] PHP   2. require() /home/ubuntu/workspace/basic/web/index.php:10
+[27-Sep-2015 16:46:01 UTC] PHP Fatal error:  Class 'View' not found in /home/ubuntu/workspace/basic/views/site/index.php on line 28
+[27-Sep-2015 16:46:01 UTC] PHP Stack trace:
+[27-Sep-2015 16:46:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 16:46:01 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 16:46:01 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 16:46:01 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 16:46:01 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 16:46:01 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 16:46:01 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 16:46:01 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 16:46:01 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[27-Sep-2015 16:46:01 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[27-Sep-2015 16:46:01 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[27-Sep-2015 16:46:01 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[27-Sep-2015 16:46:01 UTC] PHP  13. require() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:325
+[27-Sep-2015 16:46:21 UTC] PHP Fatal error:  Class 'View' not found in /home/ubuntu/workspace/basic/views/site/index.php on line 28
+[27-Sep-2015 16:46:21 UTC] PHP Stack trace:
+[27-Sep-2015 16:46:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 16:46:21 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 16:46:21 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 16:46:21 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 16:46:21 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 16:46:21 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 16:46:21 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 16:46:21 UTC] PHP   8. app\controllers\SiteController->actionIndex() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 16:46:21 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:52
+[27-Sep-2015 16:46:21 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[27-Sep-2015 16:46:21 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[27-Sep-2015 16:46:21 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
+[27-Sep-2015 16:46:21 UTC] PHP  13. require() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:325
+[27-Sep-2015 19:03:37 UTC] PHP Parse error:  syntax error, unexpected '$finalUrl' (T_VARIABLE) in /home/ubuntu/workspace/basic/components/HpApi.php on line 185
+[27-Sep-2015 19:03:37 UTC] PHP Stack trace:
+[27-Sep-2015 19:03:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:03:37 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:03:37 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:03:37 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:03:37 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 19:03:37 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 19:03:37 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:03:37 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:03:37 UTC] PHP   9. yii\di\ServiceLocator->__get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:47
+[27-Sep-2015 19:03:37 UTC] PHP  10. yii\di\ServiceLocator->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:71
+[27-Sep-2015 19:03:37 UTC] PHP  11. yii\BaseYii::createObject() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:133
+[27-Sep-2015 19:03:37 UTC] PHP  12. yii\di\Container->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/BaseYii.php:344
+[27-Sep-2015 19:03:37 UTC] PHP  13. yii\di\Container->build() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:151
+[27-Sep-2015 19:03:37 UTC] PHP  14. yii\di\Container->getDependencies() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:358
+[27-Sep-2015 19:03:37 UTC] PHP  15. ReflectionClass->__construct() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:03:37 UTC] PHP  16. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:03:37 UTC] PHP  17. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:21 UTC] PHP Parse error:  syntax error, unexpected '$finalUrl' (T_VARIABLE) in /home/ubuntu/workspace/basic/components/HpApi.php on line 185
+[27-Sep-2015 19:04:21 UTC] PHP Stack trace:
+[27-Sep-2015 19:04:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:04:21 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:04:21 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:04:21 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:04:21 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 19:04:21 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 19:04:21 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:04:21 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:04:21 UTC] PHP   9. yii\di\ServiceLocator->__get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:47
+[27-Sep-2015 19:04:21 UTC] PHP  10. yii\di\ServiceLocator->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:71
+[27-Sep-2015 19:04:21 UTC] PHP  11. yii\BaseYii::createObject() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:133
+[27-Sep-2015 19:04:21 UTC] PHP  12. yii\di\Container->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/BaseYii.php:344
+[27-Sep-2015 19:04:21 UTC] PHP  13. yii\di\Container->build() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:151
+[27-Sep-2015 19:04:21 UTC] PHP  14. yii\di\Container->getDependencies() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:358
+[27-Sep-2015 19:04:21 UTC] PHP  15. ReflectionClass->__construct() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:21 UTC] PHP  16. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:21 UTC] PHP  17. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:33 UTC] PHP Parse error:  syntax error, unexpected '$finalUrl' (T_VARIABLE) in /home/ubuntu/workspace/basic/components/HpApi.php on line 185
+[27-Sep-2015 19:04:33 UTC] PHP Stack trace:
+[27-Sep-2015 19:04:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:04:33 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:04:33 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:04:33 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:04:33 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 19:04:33 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 19:04:33 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:04:33 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:04:33 UTC] PHP   9. yii\di\ServiceLocator->__get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:47
+[27-Sep-2015 19:04:33 UTC] PHP  10. yii\di\ServiceLocator->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:71
+[27-Sep-2015 19:04:33 UTC] PHP  11. yii\BaseYii::createObject() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:133
+[27-Sep-2015 19:04:33 UTC] PHP  12. yii\di\Container->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/BaseYii.php:344
+[27-Sep-2015 19:04:33 UTC] PHP  13. yii\di\Container->build() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:151
+[27-Sep-2015 19:04:33 UTC] PHP  14. yii\di\Container->getDependencies() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:358
+[27-Sep-2015 19:04:33 UTC] PHP  15. ReflectionClass->__construct() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:33 UTC] PHP  16. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:33 UTC] PHP  17. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:36 UTC] PHP Parse error:  syntax error, unexpected '$finalUrl' (T_VARIABLE) in /home/ubuntu/workspace/basic/components/HpApi.php on line 185
+[27-Sep-2015 19:04:36 UTC] PHP Stack trace:
+[27-Sep-2015 19:04:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:04:36 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:04:36 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:04:36 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:04:36 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 19:04:36 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 19:04:36 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:04:36 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:04:36 UTC] PHP   9. yii\di\ServiceLocator->__get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:47
+[27-Sep-2015 19:04:36 UTC] PHP  10. yii\di\ServiceLocator->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:71
+[27-Sep-2015 19:04:36 UTC] PHP  11. yii\BaseYii::createObject() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:133
+[27-Sep-2015 19:04:36 UTC] PHP  12. yii\di\Container->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/BaseYii.php:344
+[27-Sep-2015 19:04:36 UTC] PHP  13. yii\di\Container->build() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:151
+[27-Sep-2015 19:04:36 UTC] PHP  14. yii\di\Container->getDependencies() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:358
+[27-Sep-2015 19:04:36 UTC] PHP  15. ReflectionClass->__construct() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:36 UTC] PHP  16. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:04:36 UTC] PHP  17. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:06:53 UTC] PHP Parse error:  syntax error, unexpected '$finalUrl' (T_VARIABLE) in /home/ubuntu/workspace/basic/components/HpApi.php on line 185
+[27-Sep-2015 19:06:53 UTC] PHP Stack trace:
+[27-Sep-2015 19:06:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:06:53 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:06:53 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:06:53 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:06:53 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 19:06:53 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 19:06:53 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:06:53 UTC] PHP   8. app\controllers\ApiController->actionUpload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:06:53 UTC] PHP   9. yii\di\ServiceLocator->__get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:47
+[27-Sep-2015 19:06:53 UTC] PHP  10. yii\di\ServiceLocator->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:71
+[27-Sep-2015 19:06:53 UTC] PHP  11. yii\BaseYii::createObject() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:133
+[27-Sep-2015 19:06:53 UTC] PHP  12. yii\di\Container->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/BaseYii.php:344
+[27-Sep-2015 19:06:53 UTC] PHP  13. yii\di\Container->build() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:151
+[27-Sep-2015 19:06:53 UTC] PHP  14. yii\di\Container->getDependencies() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:358
+[27-Sep-2015 19:06:53 UTC] PHP  15. ReflectionClass->__construct() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:06:53 UTC] PHP  16. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:06:53 UTC] PHP  17. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 19:21:38 UTC] PHP Parse error:  syntax error, unexpected '$results' (T_VARIABLE), expecting '(' in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 75
+[27-Sep-2015 19:21:38 UTC] PHP Stack trace:
+[27-Sep-2015 19:21:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:21:38 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:21:38 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:21:38 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:21:38 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:21:38 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:21:38 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:21:38 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:21:38 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:23:03 UTC] PHP Parse error:  syntax error, unexpected '$tmp' (T_VARIABLE) in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 80
+[27-Sep-2015 19:23:03 UTC] PHP Stack trace:
+[27-Sep-2015 19:23:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:23:03 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:23:03 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:23:03 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:23:03 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:23:03 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:23:03 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:23:03 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:23:03 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:25:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 85
+[27-Sep-2015 19:25:21 UTC] PHP Stack trace:
+[27-Sep-2015 19:25:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:25:21 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:25:21 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:25:21 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:25:21 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:25:21 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:25:21 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:25:21 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:25:21 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:25:24 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 85
+[27-Sep-2015 19:25:24 UTC] PHP Stack trace:
+[27-Sep-2015 19:25:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:25:24 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:25:24 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:25:24 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:25:24 UTC] PHP   5. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:25:24 UTC] PHP   6. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:25:24 UTC] PHP   7. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:25:24 UTC] PHP   8. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:25:24 UTC] PHP   9. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:43:26 UTC] PHP Fatal error:  Cannot use object of type yii\db\ActiveQuery as array in /home/ubuntu/workspace/basic/controllers/ApiController.php on line 84
+[27-Sep-2015 19:43:26 UTC] PHP Stack trace:
+[27-Sep-2015 19:43:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 19:43:26 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 19:43:26 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:43:26 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 19:43:26 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 19:43:26 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 19:43:26 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:43:26 UTC] PHP   8. app\controllers\ApiController->actionSearch() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 20:03:00 UTC] PHP Parse error:  syntax error, unexpected ';', expecting identifier (T_STRING) in /home/ubuntu/workspace/basic/views/site/about.php on line 2
+[27-Sep-2015 20:03:00 UTC] PHP Stack trace:
+[27-Sep-2015 20:03:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/web/index.php:0
+[27-Sep-2015 20:03:00 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/web/index.php:12
+[27-Sep-2015 20:03:00 UTC] PHP   3. yii\web\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 20:03:00 UTC] PHP   4. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/web/Application.php:84
+[27-Sep-2015 20:03:00 UTC] PHP   5. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 20:03:00 UTC] PHP   6. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 20:03:00 UTC] PHP   7. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 20:03:00 UTC] PHP   8. app\controllers\SiteController->actionAbout() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 20:03:00 UTC] PHP   9. yii\base\Controller->render() /home/ubuntu/workspace/basic/controllers/SiteController.php:57
+[27-Sep-2015 20:03:00 UTC] PHP  10. yii\base\View->render() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:371
+[27-Sep-2015 20:03:00 UTC] PHP  11. yii\base\View->renderFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:149
+[27-Sep-2015 20:03:00 UTC] PHP  12. yii\base\View->renderPhpFile() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/View.php:247
