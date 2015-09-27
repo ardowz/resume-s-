@@ -125,8 +125,8 @@ body {
   background-color: blue;
   height: 100px; }
 #splash-search .data {
-  background-color: orange;
-  height: 100px; }
+  overflow-y: scroll;
+  height: 200px; }
 #splash-search .input-group input,
 #splash-search .input-group .btn {
   padding: 20px !important;

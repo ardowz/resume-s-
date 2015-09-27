@@ -43,12 +43,16 @@ function scrollToShowS() {
 function showResults(results) {
     var data = JSON.parse(results);
     
-    if(data == []) {
+    if(data.length < 1) {
         alert("No Results")
     }
     
+    $("#search-results").html("");
+    
+    var count = 0;
     for (var userID in data) {
         if(data.hasOwnProperty(userID)) {
+            count++;
             var user = data[userID]
             var image
             var doc
@@ -58,11 +62,11 @@ function showResults(results) {
                 dataItem = user[i];
                 if(dataItem.face_width != undefined && dataItem.face_width != null) {
                     image = genUserImageString(dataItem.face_width, dataItem.face_height, dataItem.face_top_position, dataItem.face_left_position, dataItem.url_image)
-                } else {
-                    doc = genDocumentsString(dataItem.content)
                 }
                 
-                appendNewResult(genDiv(image, doc))
+                doc = genDocumentsString(dataItem.content)
+                
+                appendNewResult(genDiv(image, doc), count*750)
             }   
         }
     }
@@ -83,13 +87,17 @@ function genDiv(image, doc) {
 }
 
 function genUserImageString(picW, picH, picT, picL, picURL) {
-    return ''
+    /*return ''
             + '<div class="pic" style=\"'
             +   'width:'+ picW +'px;'
             +   'height:'+ picH +'px;'
-            +   'background-position:'+ picT + 'px ' + picL + 'px;' 
+            +   'background-position:'+ picL + 'px ' + picT + 'px;' 
             +   'background-image:URL(\'' + picURL + '\');'
-            + '\"></div>'
+            + '\"></div>'*/
+            
+    //return "<img height=50px width=50px src='img/no-profile.jpg'>"
+    
+    return "<img width=\"100%\" src=\"" + picURL + "\">";
 }
 
 function genDocumentsString(data) {
@@ -102,6 +110,7 @@ function genDocumentsString(data) {
 function appendNewResult(div, time) {
     setTimeout(function() { 
         $("#search-results").append(div);
-        scroll("+=" + (parseInt($(".result-element").height()) + 15) + "px");
+        scroll("+=" + (parseInt($(".result-element").height()) + 65) + "px");
+        console.log((parseInt($(".result-element").height()) + 15));
     } ,time);
 }

@@ -85,15 +85,19 @@ class ApiController extends Controller
                     
                     if ($CandidatesFiles && $ResumesFaces) {
                         if ($ResumesFaces->width) {
-                            $return[$CandidatesFiles->candidate_id][] = array(
-                                'content' => $document['content'],
-                                'url_image' => Url::to('@web/uploads/' . $CandidatesFiles->candidate_id . '/' . $CandidatesFiles->server_filename, true),
-                                'face_top_position' => $ResumesFaces->top_position,
-                                'face_left_position' => $ResumesFaces->left_position,
-                                'face_width' => $ResumesFaces->width,
-                                'face_height' => $ResumesFaces->height,
-                                'resumes_id' => $ResumesFaces->resume_id
-                            );
+                            $finalImage = '/home/ubuntu/workspace/basic/uploads/' . $CandidatesFiles->candidate_id . '/crop_' . $CandidatesFiles->server_filename;
+                            
+                            if (file_exists($finalImage)) {
+                                $return[$CandidatesFiles->candidate_id][] = array(
+                                    'content' => $document['content'],
+                                    'url_image' => Url::to('@web/uploads/' . $CandidatesFiles->candidate_id . '/crop_' . $CandidatesFiles->server_filename, true),
+                                    'face_top_position' => $ResumesFaces->top_position,
+                                    'face_left_position' => $ResumesFaces->left_position,
+                                    'face_width' => $ResumesFaces->width,
+                                    'face_height' => $ResumesFaces->height,
+                                    'resumes_id' => $ResumesFaces->resume_id
+                                );
+                            }
                         }
                     }
                 }

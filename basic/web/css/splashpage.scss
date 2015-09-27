@@ -185,8 +185,8 @@ body{
     }
     
     .data {
-        background-color:orange;
-        height:100px;
+        overflow-y: scroll;
+        height:200px;
     }
     
     .input-group {

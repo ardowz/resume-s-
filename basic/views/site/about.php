@@ -10,7 +10,7 @@ use Yii\web\view;
 <div class="container">
     <nav class="navbar navbar-fixed-top navbar-light">
         <a href="/basic/web/" class="navbar-brand" href="#">Resume <img height="17px" width="17px"src="/basic/web/img/apple-s.png"></a>
-        <a href="site/about" id="navbar-aboutUs" class="pull-right">About Us</a>
+        <a href="#" id="navbar-aboutUs" class="pull-right">About Us</a>
     </nav>
 </div>
     <!-- Page Content -->
@@ -20,9 +20,28 @@ use Yii\web\view;
         <div class="row">
             <div class="col-lg-12">
                 <h1 class="page-header">About Us</h1>
-                <p>Allows recruiters to take photo of resumes with the candidates face or without. We can the resume for the face and the text in the resume and store them. After which we the recruiters can search for candidates with specific skills and experiences and view their resume together with their faces.</p>
+                <p>Our product allows recruiters to upload photos which contains the candidate's resume and face, to our app. We start by uploading files from the recruiters computer or phone using <b>HP's Object Store API</b>. We use <b>HP's optical character recognition API</b> and the <b>facial recognition API</b> through object references to save the text from the resume and the image of candidates face. After which we allow recruiters to search, using <b>HP's query index API</b>, for potential candidates based on particular skill or experience and we show the result of candidates who have mentioned the specific skills in their resumes.</p>
             </div>
         </div>
+         <hr>
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Technology being used</h1>
+                <h3 href="https://www.idolondemand.com/developer/apis">HP Idol OnDemand</h3>
+            </div>
+        </div>
+        <hr>
+        <div class="row">
+            <div class="col-lg-12">
+                <h1 class="page-header">Future Implementations</h1>
+                <ul>
+                    <li>Using the <b>speech-to-text API</b> to connvert the conversation between recruiter and candidate.</li>
+                    <li>Applying <b>sentiment analysis</b> on the converted text to measure how positive the candidate is.</li>
+                </ul>    
+            </div>
+        </div>
+        <hr>
+
 
         <!-- Team Members Row -->
         <div class="row">
