@@ -6,7 +6,7 @@ Our product allows recruiters to upload photos which contains the candidate's re
 
 ##Team Members
 * Celso Hiroshi Endo
-* Philip Reasa  
+* Philip Reasa  PhilipReasa@gmail.com
 * Bernardo Avancena
 * Sritam Patnaik
 
