@@ -9,7 +9,7 @@ use Yii\web\view;
 ?>
 <div class="container">
     <nav class="navbar navbar-fixed-top navbar-light">
-        <a href="site/index" class="navbar-brand" href="#">Resume <img height="17px" width="17px"src="/basic/web/img/apple-s.png"></a>
+        <a href="#" class="navbar-brand" href="#">Resume <img height="17px" width="17px"src="/basic/web/img/apple-s.png"></a>
         <a href="site/about" id="navbar-aboutUs" class="pull-right">About Us</a>
     </nav>
 </div>

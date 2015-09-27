@@ -1,0 +1,538 @@
+[27-Sep-2015 15:09:03 UTC] PHP Fatal error:  Class 'app\commands\Yii' not found in /home/ubuntu/workspace/basic/commands/CronController.php on line 34
+[27-Sep-2015 15:09:03 UTC] PHP Stack trace:
+[27-Sep-2015 15:09:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:09:03 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:09:03 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:09:03 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:09:03 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:09:03 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:09:03 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:09:03 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:09:03 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:09:03 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:09:36 UTC] PHP Fatal error:  Class 'app\commands\Yii' not found in /home/ubuntu/workspace/basic/commands/CronController.php on line 34
+[27-Sep-2015 15:09:36 UTC] PHP Stack trace:
+[27-Sep-2015 15:09:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:09:36 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:09:36 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:09:36 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:09:36 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:09:36 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:09:36 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:09:36 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:09:36 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:09:36 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:10:20 UTC] PHP Fatal error:  Class 'app\commands\Yii' not found in /home/ubuntu/workspace/basic/commands/CronController.php on line 34
+[27-Sep-2015 15:10:20 UTC] PHP Stack trace:
+[27-Sep-2015 15:10:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:10:20 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:10:20 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:10:20 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:10:20 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:10:20 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:10:20 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:10:20 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:10:20 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:10:20 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:15:09 UTC] PHP Parse error:  syntax error, unexpected 'functoin' (T_STRING), expecting variable (T_VARIABLE) in /home/ubuntu/workspace/basic/components/HpApi.php on line 103
+[27-Sep-2015 15:15:09 UTC] PHP Stack trace:
+[27-Sep-2015 15:15:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:15:09 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:15:09 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:15:09 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:15:09 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:15:09 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:15:09 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:15:09 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:15:09 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:15:09 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:15:09 UTC] PHP  11. yii\di\ServiceLocator->__get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:36
+[27-Sep-2015 15:15:09 UTC] PHP  12. yii\di\ServiceLocator->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:71
+[27-Sep-2015 15:15:09 UTC] PHP  13. yii\BaseYii::createObject() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:133
+[27-Sep-2015 15:15:09 UTC] PHP  14. yii\di\Container->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/BaseYii.php:344
+[27-Sep-2015 15:15:09 UTC] PHP  15. yii\di\Container->build() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:151
+[27-Sep-2015 15:15:09 UTC] PHP  16. yii\di\Container->getDependencies() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:358
+[27-Sep-2015 15:15:09 UTC] PHP  17. ReflectionClass->__construct() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 15:15:09 UTC] PHP  18. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 15:15:09 UTC] PHP  19. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 15:26:40 UTC] PHP Fatal error:  Class 'app\commands\ResumesFaces' not found in /home/ubuntu/workspace/basic/commands/CronController.php on line 43
+[27-Sep-2015 15:26:40 UTC] PHP Stack trace:
+[27-Sep-2015 15:26:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:26:40 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:26:40 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:26:40 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:26:40 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:26:40 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:26:40 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:26:40 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:26:40 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:26:40 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:26:40 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:35
+[27-Sep-2015 15:26:56 UTC] PHP Fatal error:  Call to undefined method app\models\ResumesFaces::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 48
+[27-Sep-2015 15:26:56 UTC] PHP Stack trace:
+[27-Sep-2015 15:26:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:26:56 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:26:56 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:26:56 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:26:56 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:26:56 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:26:56 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:26:56 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:26:56 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:26:56 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:26:56 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:27:25 UTC] PHP Fatal error:  Call to undefined method app\models\ResumesFaces::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 48
+[27-Sep-2015 15:27:25 UTC] PHP Stack trace:
+[27-Sep-2015 15:27:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:27:25 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:27:25 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:27:25 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:27:25 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:27:25 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:27:25 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:27:25 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:27:25 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:27:25 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:27:25 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:28:09 UTC] PHP Fatal error:  Call to undefined method app\models\ResumesFaces::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 48
+[27-Sep-2015 15:28:09 UTC] PHP Stack trace:
+[27-Sep-2015 15:28:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:28:09 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:28:09 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:28:09 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:28:09 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:28:09 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:28:09 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:28:09 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:28:09 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:28:09 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:28:09 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:28:21 UTC] PHP Fatal error:  Call to undefined method app\models\ResumesFaces::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 48
+[27-Sep-2015 15:28:21 UTC] PHP Stack trace:
+[27-Sep-2015 15:28:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:28:21 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:28:21 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:28:21 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:28:21 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:28:21 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:28:21 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:28:21 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:28:21 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:28:21 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:28:21 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:32:21 UTC] PHP Fatal error:  Call to undefined method app\models\Candidates::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 48
+[27-Sep-2015 15:32:21 UTC] PHP Stack trace:
+[27-Sep-2015 15:32:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:32:21 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:32:21 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:32:21 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:32:21 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:32:21 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:32:21 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:32:21 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:32:21 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:32:21 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:32:21 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:33:00 UTC] PHP Fatal error:  Call to undefined method app\models\Candidates::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 49
+[27-Sep-2015 15:33:00 UTC] PHP Stack trace:
+[27-Sep-2015 15:33:00 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:33:00 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:33:00 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:33:00 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:33:00 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:33:00 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:33:00 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:33:00 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:33:00 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:33:00 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:33:00 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:34:02 UTC] PHP Fatal error:  Call to undefined method app\models\ResumesFaces::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 49
+[27-Sep-2015 15:34:02 UTC] PHP Stack trace:
+[27-Sep-2015 15:34:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:34:02 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:34:02 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:34:02 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:34:02 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:34:02 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:34:02 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:34:02 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:34:02 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:34:02 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:34:02 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:34:24 UTC] PHP Fatal error:  Call to undefined method app\models\Candidates::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 48
+[27-Sep-2015 15:34:24 UTC] PHP Stack trace:
+[27-Sep-2015 15:34:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:34:24 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:34:24 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:34:24 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:34:24 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:34:24 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:34:24 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:34:24 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:34:24 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:34:24 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:34:24 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:34:31 UTC] PHP Fatal error:  Call to undefined method app\models\ResumesFaces::model() in /home/ubuntu/workspace/basic/commands/CronController.php on line 49
+[27-Sep-2015 15:34:31 UTC] PHP Stack trace:
+[27-Sep-2015 15:34:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:34:31 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:34:31 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:34:31 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:34:31 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:34:31 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:34:31 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:34:31 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:34:31 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:34:31 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:34:31 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:34:40 UTC] PHP Fatal error:  Call to undefined method app\models\ResumesFaces::findByAttributes() in /home/ubuntu/workspace/basic/commands/CronController.php on line 49
+[27-Sep-2015 15:34:40 UTC] PHP Stack trace:
+[27-Sep-2015 15:34:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:34:40 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:34:40 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:34:40 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:34:40 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:34:40 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 15:34:40 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 15:34:40 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 15:34:40 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:34:40 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 15:34:40 UTC] PHP  11. app\commands\CronController->getFaceStatus() /home/ubuntu/workspace/basic/commands/CronController.php:40
+[27-Sep-2015 15:40:56 UTC] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/ubuntu/workspace/basic/commands/CronController.php on line 48
+[27-Sep-2015 15:40:56 UTC] PHP Stack trace:
+[27-Sep-2015 15:40:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 15:40:56 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 15:40:56 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 15:40:56 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 15:40:56 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 15:40:56 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 15:40:56 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 15:40:56 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 15:40:56 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 15:40:56 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 17:18:40 UTC] PHP Fatal error:  Call to a member function getResumeStatus() on a non-object in /home/ubuntu/workspace/basic/commands/CronController.php on line 42
+[27-Sep-2015 17:18:40 UTC] PHP Stack trace:
+[27-Sep-2015 17:18:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 17:18:40 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 17:18:40 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 17:18:40 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 17:18:40 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 17:18:40 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 17:18:40 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 17:18:40 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 17:18:40 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 17:18:40 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 17:18:54 UTC] PHP Fatal error:  Call to a member function getResumeStatus() on a non-object in /home/ubuntu/workspace/basic/commands/CronController.php on line 42
+[27-Sep-2015 17:18:54 UTC] PHP Stack trace:
+[27-Sep-2015 17:18:54 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 17:18:54 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 17:18:54 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 17:18:54 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 17:18:54 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 17:18:54 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 17:18:54 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 17:18:54 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 17:18:54 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 17:18:54 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 17:19:01 UTC] PHP Fatal error:  Call to a member function getResumeStatus() on a non-object in /home/ubuntu/workspace/basic/commands/CronController.php on line 42
+[27-Sep-2015 17:19:02 UTC] PHP Stack trace:
+[27-Sep-2015 17:19:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 17:19:02 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 17:19:02 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 17:19:02 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 17:19:02 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 17:19:02 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 17:19:02 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 17:19:02 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 17:19:02 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 17:19:02 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:28:19 UTC] PHP Fatal error:  Call to undefined function app\components\datetime() in /home/ubuntu/workspace/basic/components/HpApi.php on line 157
+[27-Sep-2015 18:28:19 UTC] PHP Stack trace:
+[27-Sep-2015 18:28:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 18:28:19 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 18:28:19 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 18:28:19 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 18:28:19 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 18:28:19 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 18:28:19 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 18:28:19 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 18:28:19 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:28:19 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:28:19 UTC] PHP  11. app\components\HpApi->addToIndex() /home/ubuntu/workspace/basic/commands/CronController.php:45
+[27-Sep-2015 18:28:39 UTC] PHP Fatal error:  Class 'app\components\stdObject' not found in /home/ubuntu/workspace/basic/components/HpApi.php on line 157
+[27-Sep-2015 18:28:39 UTC] PHP Stack trace:
+[27-Sep-2015 18:28:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 18:28:39 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 18:28:39 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 18:28:39 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 18:28:39 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 18:28:39 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 18:28:39 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 18:28:39 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 18:28:39 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:28:39 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:28:39 UTC] PHP  11. app\components\HpApi->addToIndex() /home/ubuntu/workspace/basic/commands/CronController.php:45
+[27-Sep-2015 18:28:49 UTC] PHP Fatal error:  Call to undefined function app\components\datetime() in /home/ubuntu/workspace/basic/components/HpApi.php on line 157
+[27-Sep-2015 18:28:49 UTC] PHP Stack trace:
+[27-Sep-2015 18:28:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 18:28:49 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 18:28:49 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 18:28:49 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 18:28:49 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 18:28:49 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 18:28:49 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 18:28:49 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 18:28:49 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:28:49 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:28:49 UTC] PHP  11. app\components\HpApi->addToIndex() /home/ubuntu/workspace/basic/commands/CronController.php:45
+[27-Sep-2015 18:29:14 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/ubuntu/workspace/basic/components/HpApi.php on line 157
+[27-Sep-2015 18:29:14 UTC] PHP Stack trace:
+[27-Sep-2015 18:29:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 18:29:14 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 18:29:14 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 18:29:14 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 18:29:14 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 18:29:14 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 18:29:14 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 18:29:14 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 18:29:14 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:29:14 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:29:14 UTC] PHP  11. yii\di\ServiceLocator->__get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:44
+[27-Sep-2015 18:29:14 UTC] PHP  12. yii\di\ServiceLocator->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:71
+[27-Sep-2015 18:29:14 UTC] PHP  13. yii\BaseYii::createObject() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/ServiceLocator.php:133
+[27-Sep-2015 18:29:14 UTC] PHP  14. yii\di\Container->get() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/BaseYii.php:344
+[27-Sep-2015 18:29:14 UTC] PHP  15. yii\di\Container->build() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:151
+[27-Sep-2015 18:29:14 UTC] PHP  16. yii\di\Container->getDependencies() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:358
+[27-Sep-2015 18:29:14 UTC] PHP  17. ReflectionClass->__construct() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 18:29:14 UTC] PHP  18. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 18:29:14 UTC] PHP  19. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/di/Container.php:415
+[27-Sep-2015 18:30:21 UTC] PHP Fatal error:  Call to undefined function app\components\datetime() in /home/ubuntu/workspace/basic/components/HpApi.php on line 162
+[27-Sep-2015 18:30:21 UTC] PHP Stack trace:
+[27-Sep-2015 18:30:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 18:30:21 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 18:30:21 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 18:30:21 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 18:30:21 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 18:30:21 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 18:30:21 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 18:30:21 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 18:30:21 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:30:21 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:30:21 UTC] PHP  11. app\components\HpApi->addToIndex() /home/ubuntu/workspace/basic/commands/CronController.php:45
+[27-Sep-2015 18:45:27 UTC] PHP Fatal error:  Call to undefined function app\components\htmlurlencode() in /home/ubuntu/workspace/basic/components/HpApi.php on line 148
+[27-Sep-2015 18:45:27 UTC] PHP Stack trace:
+[27-Sep-2015 18:45:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 18:45:27 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 18:45:27 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 18:45:27 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 18:45:27 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 18:45:27 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 18:45:27 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 18:45:27 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 18:45:27 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:45:27 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 18:45:27 UTC] PHP  11. app\components\HpApi->addToIndex() /home/ubuntu/workspace/basic/commands/CronController.php:45
+[27-Sep-2015 19:35:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 49
+[27-Sep-2015 19:35:37 UTC] PHP Stack trace:
+[27-Sep-2015 19:35:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:35:37 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:35:37 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:35:37 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:35:37 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:35:37 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:35:37 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:35:37 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:35:37 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:35:37 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:38:17 UTC] PHP Fatal error:  Cannot use [] for reading in /home/ubuntu/workspace/basic/commands/CronController.php on line 45
+[27-Sep-2015 19:38:17 UTC] PHP Stack trace:
+[27-Sep-2015 19:38:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:38:17 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:38:17 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:38:17 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:38:17 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:38:17 UTC] PHP   6. yii\console\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:455
+[27-Sep-2015 19:38:17 UTC] PHP   7. yii\base\Controller->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Controller.php:91
+[27-Sep-2015 19:38:17 UTC] PHP   8. yii\base\InlineAction->runWithParams() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Controller.php:151
+[27-Sep-2015 19:38:17 UTC] PHP   9. call_user_func_array:{/home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55}() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:38:17 UTC] PHP  10. app\commands\CronController->actionGetupdates() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/InlineAction.php:55
+[27-Sep-2015 19:39:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:13 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:13 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:13 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:13 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:13 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:13 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:13 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:13 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:13 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:13 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:15 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:15 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:15 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:15 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:15 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:15 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:15 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:15 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:15 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:15 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:15 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:20 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:20 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:20 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:20 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:20 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:20 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:20 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:20 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:20 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:20 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:20 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:20 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:20 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:20 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:20 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:20 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:20 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:20 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:20 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:20 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:21 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:21 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:21 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:21 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:21 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:21 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:21 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:21 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:21 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:21 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:21 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:30 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:30 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:30 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:30 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:30 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:30 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:30 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:30 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:30 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:30 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:30 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:31 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:31 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:31 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:31 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:31 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:31 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:31 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:31 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:31 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:31 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:31 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:31 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:38 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:38 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:38 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:38 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:38 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:38 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:38 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:38 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:38 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:38 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:38 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:39 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:39 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:39 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:39 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:39 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:39 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:39 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:39 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:39 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:39 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:40 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:39:40 UTC] PHP Stack trace:
+[27-Sep-2015 19:39:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:39:40 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:39:40 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:39:40 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:39:40 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:39:40 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:39:40 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:39:40 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:40 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:39:40 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:40:06 UTC] PHP Stack trace:
+[27-Sep-2015 19:40:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:40:06 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:40:06 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:40:06 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:40:06 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:40:06 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:40:06 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:40:06 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:06 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:06 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:40:07 UTC] PHP Stack trace:
+[27-Sep-2015 19:40:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:40:07 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:40:07 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:40:07 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:40:07 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:40:07 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:40:07 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:40:07 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:07 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:07 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:07 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:40:07 UTC] PHP Stack trace:
+[27-Sep-2015 19:40:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:40:07 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:40:07 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:40:07 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:40:07 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:40:07 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:40:07 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:40:07 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:07 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:07 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:08 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/ubuntu/workspace/basic/commands/CronController.php on line 50
+[27-Sep-2015 19:40:08 UTC] PHP Stack trace:
+[27-Sep-2015 19:40:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:40:08 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:40:08 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:40:08 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:40:08 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:40:08 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:40:08 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:40:08 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:08 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:40:08 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:58:17 UTC] PHP Parse error:  syntax error, unexpected 'var_dump' (T_STRING) in /home/ubuntu/workspace/basic/commands/CronController.php on line 98
+[27-Sep-2015 19:58:17 UTC] PHP Stack trace:
+[27-Sep-2015 19:58:17 UTC] PHP   1. {main}() /home/ubuntu/workspace/basic/yii:0
+[27-Sep-2015 19:58:17 UTC] PHP   2. yii\base\Application->run() /home/ubuntu/workspace/basic/yii:19
+[27-Sep-2015 19:58:17 UTC] PHP   3. yii\console\Application->handleRequest() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Application.php:375
+[27-Sep-2015 19:58:17 UTC] PHP   4. yii\console\Application->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:143
+[27-Sep-2015 19:58:17 UTC] PHP   5. yii\base\Module->runAction() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/console/Application.php:167
+[27-Sep-2015 19:58:17 UTC] PHP   6. yii\base\Module->createController() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:449
+[27-Sep-2015 19:58:17 UTC] PHP   7. yii\base\Module->createControllerByID() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:521
+[27-Sep-2015 19:58:17 UTC] PHP   8. class_exists() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:58:17 UTC] PHP   9. spl_autoload_call() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
+[27-Sep-2015 19:58:17 UTC] PHP  10. yii\BaseYii::autoload() /home/ubuntu/workspace/basic/vendor/yiisoft/yii2/base/Module.php:563
