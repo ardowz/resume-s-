@@ -1,30 +1,15 @@
+#Resume-s
+This is a project created for the 2015 integrate hackathon
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+##About
+Our product allows recruiters to upload photos which contains the candidate's resume and face, to our app. We start by uploading files from the recruiters computer or phone using HP's Object Store API. We use HP's optical character recognition API and the facial recognition API through object references to save the text from the resume and the image of candidates face. After which we allow recruiters to search, using HP's query index API, for potential candidates based on particular skill or experience and we show the result of candidates who have mentioned the specific skills in their resumes.
 
+##Team Members
+Celso Hiroshi Endo
+Philip Reasa 
+Bernardo Avancena
+Sritam Patnaik
 
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we have created a small hello world application.
-
-1) Open the hello-world.php file
-
-2) Follow the run instructions in the file's comments
-
-3) If you want to look at the Apache logs, check out ~/lib/apache2/log
-
-And that's all there is to it! Just have fun. Go ahead and edit the code, 
-or add new files. It's all up to you! 
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+##Future Features
+*Using the speech-to-text API to connvert the conversation between recruiter and candidate.
+*Applying sentiment analysis on the converted text to measure how positive the candidate is.
