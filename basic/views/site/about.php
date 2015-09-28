@@ -7,8 +7,9 @@ use Yii\web\view;
     $this->registerCssFile("https://fonts.googleapis.com/css?family=Noto+Sans");
     $this->registerCssFile("css/animate.css");
 ?>
+<a href="https://github.com/ardowz/resume-s-"><img style="position: absolute; z-index:2; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
 <div class="container">
-    <nav class="navbar navbar-fixed-top navbar-light">
+    <nav class="navbar navbar-fixed-top navbar-light z0">
         <a href="/basic/web/" class="navbar-brand" href="#">Resume <img height="17px" width="17px"src="/basic/web/img/apple-s.png"></a>
         <a href="#" id="navbar-aboutUs" class="pull-right">About Us</a>
     </nav>
@@ -42,6 +43,13 @@ use Yii\web\view;
         </div>
         <hr>
 
+        <div class="row">
+            <div class="col-lg-12">
+                <h2>GitHub</h2>
+                Check out the source at <a href="https://github.com/ardowz/resume-s-">https://github.com/ardowz/resume-s-</a>
+            </div>
+        </div>
+        <hr>
 
         <!-- Team Members Row -->
         <div class="row">
@@ -51,24 +59,28 @@ use Yii\web\view;
             <div class="col-lg-3 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="/basic/web/img/celso.png" alt="">
                 <h3 class="celso">Celso Hiroshi Endo</h3>
-                <small>Developer</small>
+                <small>Developer</small></br>
+                <a href="mailto:celso@celsoendo.com">celso@celsoendo.com</a>
             </div>
             <div class="col-lg-3 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="/basic/web/img/phil.png" alt="">
                 <h3>Philip Reasa</h3>
-                <small>Developer</small>
+                <small>Developer</small></br>
+                <a href="mailto:philipreasa@gmail.com">philipreasa@gmail.com</a>
             </div>
             <div class="col-lg-3 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="/basic/web/img/bernardo.png" alt=""> 
                 <h3>Bernardo Avancena</h3>
-                <small>Developer</small>
+                <small>Developer</small></br>
+                <a href="mailto:ardowz@gmail.com">ardowz@gmail.com</a>
             </div>
             <div class="col-lg-3 col-sm-6 text-center">
                 <img class="img-circle img-responsive img-center" src="/basic/web/img/sritam.png" alt="">
                 <h3>Sritam Patnaik</h3>
-                <small>Developer</small>
+                <small>Developer</small></br>
+                 <a href="mailto:sritampatnaik@gmail.com">sritampatnaik@gmail.com</a>
             </div>
         </div>
-
+    
     </div>
  

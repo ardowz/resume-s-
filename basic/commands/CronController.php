@@ -96,27 +96,31 @@ class CronController extends Controller
 
                 $resumeFacesModel->finished_time = new Expression('NOW()');
                 
-                // Crop the image
-                $imageFilename = $resumeFacesModel->resumes->candidatesFiles->server_filename;
-                $imageFullPath = '/home/ubuntu/workspace/basic/uploads/' . $resumeFacesModel->resumes->candidatesFiles->candidate_id;
-                
-                // Create image instances
-                $src = imagecreatefromjpeg($imageFullPath . '/' . $imageFilename);
-                $dest = imagecreatetruecolor($face['width'], $face['height']);
-                
-                // Copy
-                imagecopy($dest, $src, 0, 0, $face['left'], $face['top'], $face['width'], $face['height']);
-                
-                // Output and free from memory
-                header('Content-Type: image/gif');
-                imagejpeg($dest, $imageFullPath . '/crop_' . $imageFilename);
-                
-                imagedestroy($dest);
-                imagedestroy($src);
-                
-                $resumeFacesModel->save();
-                
-
+                if ($face) {
+                    try {
+                        // Crop the image
+                        $imageFilename = $resumeFacesModel->resumes->candidatesFiles->server_filename;
+                        $imageFullPath = '/home/ubuntu/workspace/basic/uploads/' . $resumeFacesModel->resumes->candidatesFiles->candidate_id;
+                    
+                        // Create image instances
+                        $src = imagecreatefromjpeg($imageFullPath . '/' . $imageFilename);
+                        $dest = imagecreatetruecolor($face['width'], $face['height']);
+                        
+                        // Copy
+                        imagecopy($dest, $src, 0, 0, $face['left'], $face['top'], $face['width'], $face['height']);
+                        
+                        // Output and free from memory
+                        header('Content-Type: image/gif');
+                        imagejpeg($dest, $imageFullPath . '/crop_' . $imageFilename);
+                        
+                        imagedestroy($dest);
+                        imagedestroy($src);    
+                        
+                        $resumeFacesModel->save();
+                    } catch (Exception $exc) {
+                        var_dump($face);
+                    }                    
+                }
             }   
         }
     }

@@ -3,6 +3,10 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+ .z0 {
+   z-index:1 !important;
+ }
+ 
 .navbar {
   background-color: rgba(0, 0, 0, 0.35); }
   .navbar .navbar-brand {
