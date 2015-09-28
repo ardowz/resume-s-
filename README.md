@@ -1,4 +1,4 @@
-#Resume-s
+#Resume[s]
 This is a project created for the 2015 integrate hackathon
 
 ##About
