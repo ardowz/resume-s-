@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="27ce2f46-253a-49c8-b6a0-c96a973006b1" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/views/site/index.php" afterPath="$PROJECT_DIR$/basic/views/site/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/web/js/splash.js" afterPath="$PROJECT_DIR$/basic/web/js/splash.js" />
     </list>
     <ignored path="resume-s-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic/views/site/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5882354">
-              <caret line="42" column="77" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
+            <state vertical-scroll-proportion="0.7054455">
+              <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -57,10 +56,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="splash.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="splash.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic/web/js/splash.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3956044">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
               <folding />
             </state>
@@ -112,8 +111,8 @@
         <option value="$PROJECT_DIR$/basic/views/layouts/main.php" />
         <option value="$PROJECT_DIR$/basic/assets/AppAsset.php" />
         <option value="$PROJECT_DIR$/basic/web/css/splashpage.scss" />
-        <option value="$PROJECT_DIR$/basic/views/site/index.php" />
         <option value="$PROJECT_DIR$/basic/web/js/splash.js" />
+        <option value="$PROJECT_DIR$/basic/views/site/index.php" />
       </list>
     </option>
   </component>
@@ -569,6 +568,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic/web/js/splash.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic/web/css/splashpage.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.7179487">
@@ -579,16 +586,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.5882354">
-          <caret line="42" column="77" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/web/js/splash.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3956044">
-          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        <state vertical-scroll-proportion="0.7054455">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
           <folding />
         </state>
       </provider>
