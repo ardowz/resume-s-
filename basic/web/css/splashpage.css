@@ -24,7 +24,7 @@ body {
       margin-bottom: 5px; }
   .navbar #navbar-aboutUs {
     cursor: pointer;
-    padding-top: 5px; }
+    padding-t: 15px; }
   .navbar #navbar-aboutUs:hover {
     text-decoration: none; }
   .navbar #navbar-aboutUs:hover {
