@@ -47,13 +47,22 @@ $(function() {
     <div class="container-fluid bigLandingPic">
         <div class="row positive-message">
             <div class="col-sm-12 text-center">
-                <div data-step="1" data-intro="Welcome to Resume[s]. Learn about the project in the about us page, or continue with this tutorial to learn how to us this site!" class="text">Bringing Resumes into the future</div>
+                <div data-step="1" data-intro="Welcome to Resume[s]. Learn about the project in the <a href='/about'>about us page</a>, or continue with this tutorial to learn how to us this site!" class="text">Bringing Resumes into the future</div>
             </div>
         </div>
         <div class="row main-buttons text-center">
             <div class="col-sm-12">
-                <button id="upload" class="btn btn-upload" type="submit">UPLOAD</button>
-                <button id="search" class="btn btn-search" type="submit">SEARCH</button>
+                <button id="upload" class="btn btn-upload" type="submit"
+                    data-step="2" data-intro="First things first, click upload!"
+                    >
+                    UPLOAD
+                </button>
+                <button id="search" class="btn btn-search" type="submit"
+                    data-step="5"
+                    data-intro="Now that the resume is uploaded and processed, search for test that was in the resume by clicking here"
+                    >
+                    SEARCH
+                </button>
             </div>
         </div>
     </div>    
@@ -61,7 +70,10 @@ $(function() {
 
 <section id="splash-upload" class="weak-hide">
     <div class="container">
-        <div class="row">
+        <div class="row"
+            data-step="3"
+            data-intro="Now upload (drag and drop) a picture of a person holding a resume next to their face. <a href='img/sample.jpg' target='_blank'>Here is a picture</a> for you to use"
+            >
             
             <div class="col-sm-9 ">
                 <form action="/basic/web/api/upload" method="post">
@@ -70,7 +82,10 @@ $(function() {
                 
             </div>
             <div class="col-sm-3">
-                <input type="button" id="newCandidate" class="btn btn-next addNewCandidateBtn" value="Next Candidate"/>
+                <input type="button" id="newCandidate" class="btn btn-next addNewCandidateBtn" value="Next Candidate"
+                    data-step="4"
+                    data-intro="Now click next Candidate to upload this image."
+                    />
             </div>
         </div>
     </div>
@@ -83,9 +98,15 @@ $(function() {
             <div class="col-sm-12">
                 <form id="search-form">
                    <div class="input-group">
-                      <input name="query" type="text" class="form-control" placeholder="Find Applicants with these talents...">
+                      <input name="query" type="text" class="form-control" placeholder="Find Applicants with these talents..."
+                          data-step="7"
+                          data-intro="Type your query string here (Hint, try 'CSS')"
+                          >
                       <span class="input-group-btn">
-                        <button class="btn btn-query" type="submit">Search</button>
+                        <button class="btn btn-query" type="submit"
+                            data-step="8"
+                            data-intro="And finally, press search!"
+                            >Search</button>
                       </span>
                     </div>
                 </form>

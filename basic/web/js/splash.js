@@ -26,11 +26,22 @@ $(function() {
         startTutorial();
 
         //set the visited cookie
-        createCookie("visited", 1);
+        createCookie("visited", 1, 10);
+    }
+
+    if(readCookie("continue_with_search")) {
+        eraseCookie("continue_with_search");
+        introJs().goToStep(5).start()
     }
 });
 
 function startTutorial() {
+    introJs().setOption("showStepNumbers", "false");
+    introJs().onchange(function(targetElement) {
+        if(targetElement.id == "newCandidate") {
+            createCookie("continue_with_search", 1);
+        }
+    });
     introJs().start();
 }
 
@@ -129,6 +140,7 @@ function appendNewResult(div, time) {
     } ,time);
 }
 
+// http://stackoverflow.com/questions/1458724/how-to-set-unset-cookie-with-jquery
 function createCookie(name, value, days) {
     var expires;
 
@@ -151,4 +163,8 @@ function readCookie(name) {
         if (c.indexOf(nameEQ) === 0) return decodeURIComponent(c.substring(nameEQ.length, c.length));
     }
     return null;
+}
+
+function eraseCookie(name) {
+    createCookie(name, "", -1);
 }
