@@ -17,7 +17,16 @@ $(function() {
                 alert(":( search failed");
             },
         });
-    });     
+    });
+
+    //handle new user stuff
+    if(!$.cookie("visited")) {
+        //if the use has never been here before, onboard them
+        introJs().start();
+
+        //set the visited cookie
+        $.cookie("visited", 1)
+    }
 })
 
 function scroll(amount) {
