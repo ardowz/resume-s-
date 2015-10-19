@@ -11,7 +11,6 @@ use Yii\web\view;
 <div class="container">
     <nav class="navbar navbar-fixed-top navbar-light z0">
         <a href="/" class="navbar-brand" href="#">Resume <img height="17px" width="17px"src="img/apple-s.png"></a>
-        <a href="#" id="navbar-aboutUs" class="pull-right">About Us</a>
     </nav>
 </div>
     <!-- Page Content -->
