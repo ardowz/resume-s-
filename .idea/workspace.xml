@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="27ce2f46-253a-49c8-b6a0-c96a973006b1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/assets/AppAsset.php" afterPath="$PROJECT_DIR$/basic/assets/AppAsset.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic/views/layouts/main.php" afterPath="$PROJECT_DIR$/basic/views/layouts/main.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="resume-s-.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,14 +46,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/basic/views/layouts/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34802786">
-              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state vertical-scroll-proportion="-11.875">
+              <caret line="21" column="60" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="60" />
               <folding>
                 <element signature="e#66#87#0#PHP" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppAsset.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/basic/assets/AppAsset.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.84686774">
+              <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -112,6 +124,7 @@
         <option value="$PROJECT_DIR$/basic/web/js/splash.js" />
         <option value="$PROJECT_DIR$/basic/views/site/index.php" />
         <option value="$PROJECT_DIR$/basic/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/basic/assets/AppAsset.php" />
       </list>
     </option>
   </component>
@@ -335,7 +348,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="main&#9;FILE&#9;file:///Users/Reasa/Documents/Probity/resume-s-/basic/views/layouts/main.php&#10;spla&#9;FILE&#9;file:///Users/Reasa/Documents/Probity/resume-s-/basic/web/js/splash.js&#10;about&#9;FILE&#9;file:///Users/Reasa/Documents/Probity/resume-s-/basic/views/site/about.php" />
+    <property name="SearchEverywhereHistoryKey" value="asse&#9;FILE&#9;file:///Users/Reasa/Documents/Probity/resume-s-/basic/assets/AppAsset.php&#10;ass&#9;null&#9;null&#10;main&#9;FILE&#9;file:///Users/Reasa/Documents/Probity/resume-s-/basic/views/layouts/main.php&#10;spla&#9;FILE&#9;file:///Users/Reasa/Documents/Probity/resume-s-/basic/web/js/splash.js&#10;about&#9;FILE&#9;file:///Users/Reasa/Documents/Probity/resume-s-/basic/views/site/about.php" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -541,26 +554,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic/web/css/splashpage.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.8333335">
-          <caret line="223" column="38" selection-start-line="223" selection-start-column="38" selection-end-line="223" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/basic/web/js/splash.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic/views/site/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.235294">
-          <caret line="11" column="74" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="74" />
           <folding />
         </state>
       </provider>
@@ -573,13 +570,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/basic/web/css/splashpage.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8333335">
+          <caret line="223" column="38" selection-start-line="223" selection-start-column="38" selection-end-line="223" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.235294">
+          <caret line="11" column="74" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/basic/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34802786">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="21" column="60" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="60" />
           <folding>
             <element signature="e#66#87#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/basic/assets/AppAsset.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84686774">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
