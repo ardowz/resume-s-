@@ -19,7 +19,10 @@ use Yii\web\view;
         <!-- Introduction Row -->
         <div class="row">
             <div class="col-lg-12">
-                <h1 class="page-header">About Us</h1>
+                <h1 class="page-header">About</h1>
+                <h2>What is this?</h2>
+                <p>This is a quick project thrown together by friends and coworkers for the Integrate 2015 Hackathon. Our code is a little messy at places due to a very tight time constraint, and there may be a bug or two, but we are all really proud to have produced such a fun product in such little time! </p>
+                <h2>About the Project</h2>
                 <p>Our product allows recruiters to upload photos which contains the candidate's resume and face, to our app. We start by uploading files from the recruiters computer or phone using <b>HP's Object Store API</b>. We use <b>HP's optical character recognition API</b> and the <b>facial recognition API</b> through object references to save the text from the resume and the image of candidates face. After which we allow recruiters to search, using <b>HP's query index API</b>, for potential candidates based on particular skill or experience and we show the result of candidates who have mentioned the specific skills in their resumes.</p>
             </div>
         </div>
