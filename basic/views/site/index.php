@@ -39,8 +39,8 @@ $(function() {
 <div class="container">
     <nav class="navbar navbar-fixed-top navbar-light">
         <a class="navbar-brand" href="#">Resume <img height="17px" width="17px"src="img/apple-s.png"></a>
-        <a href="/about" id="navbar-guideMe" class="pull-right">Guide Me!</a>
         <a href="/about" id="navbar-aboutUs" class="pull-right">About Us</a>
+        <a href="/about" id="navbar-guideMe" class="pull-right">Guide Me!</a>
     </nav>
 </div>
 <section id="splash-landing">

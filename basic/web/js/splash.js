@@ -20,14 +20,19 @@ $(function() {
     });
 
     //handle new user stuff
+    $("#navbar-guideMe").click(startTutorial);
     if(!readCookie("visited")) {
         //if the use has never been here before, onboard them
-        introJs().start();
+        startTutorial();
 
         //set the visited cookie
         createCookie("visited", 1);
     }
 });
+
+function startTutorial() {
+    introJs().start();
+}
 
 function scroll(amount) {
     if(amount != undefined) {
