@@ -36,13 +36,16 @@ $(function() {
 });
 
 function startTutorial() {
-    introJs().setOption("showStepNumbers", "false");
+    $("#tutorial").modal();
+
+    /*WIP
+    introJs().setOption("showStepNumbers", false);
     introJs().onchange(function(targetElement) {
         if(targetElement.id == "newCandidate") {
             createCookie("continue_with_search", 1);
         }
     });
-    introJs().start();
+    introJs().start();*/
 }
 
 function scroll(amount) {

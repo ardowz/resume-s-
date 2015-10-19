@@ -53,7 +53,9 @@ $(function() {
         <div class="row main-buttons text-center">
             <div class="col-sm-12">
                 <button id="upload" class="btn btn-upload" type="submit"
-                    data-step="2" data-intro="First things first, click upload!"
+                    data-step="2"
+                    data-intro="First things first, click upload!"
+                    data-position="top"
                     >
                     UPLOAD
                 </button>
@@ -73,6 +75,7 @@ $(function() {
         <div class="row"
             data-step="3"
             data-intro="Now upload (drag and drop) a picture of a person holding a resume next to their face. <a href='img/sample.jpg' target='_blank'>Here is a picture</a> for you to use"
+            data-position="top"
             >
             
             <div class="col-sm-9 ">
@@ -118,3 +121,23 @@ $(function() {
         </div>
     </div>
 </section>
+
+<div id="tutorial" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Modal Header</h4>
+            </div>
+            <div class="modal-body">
+                <p>Some text in the modal.</p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
