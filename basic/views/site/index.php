@@ -9,7 +9,7 @@ $this->registerCssFile("https://fonts.googleapis.com/css?family=Noto+Sans");
 $this->registerCssFile("css/dropzone.css");
 $this->registerCssFile("css/animate.css");
 $this->registerJsFile("js/dropzone.js");
-$this->registerJsFile("js/jquery.cookie.js");
+$this->registerJsFile("js/jquery.cookie.js",View::POS_HEAD);
 $this->registerJsFile("js/intro.js");
 $this->registerJsFile("js/splash.js");
 $this->registerJs("
