@@ -22,6 +22,7 @@ body {
     .navbar .navbar-brand img {
       display: inline;
       margin-bottom: 5px; }
+  .navbar #navbar-guideMe,
   .navbar #navbar-aboutUs {
     cursor: pointer;
     padding-top: 5px;
@@ -33,6 +34,7 @@ body {
     padding-bottom: 5px;
     margin-right: 20px;
     margin-top: 8px; }
+    .navbar #navbar-guideMe:hover,
     .navbar #navbar-aboutUs:hover {
       background-color: rgba(0, 0, 0, 0.35);
       text-decoration: none; }
