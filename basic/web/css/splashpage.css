@@ -151,7 +151,7 @@ body {
 /**
 *HELPER CLASSES
 **/
-.hidden {
+.weak-hide {
   display: none; }
 
 .margin-top-sm {

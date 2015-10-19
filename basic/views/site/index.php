@@ -56,7 +56,7 @@ use Yii\web\view;
     </div>    
 </section>
 
-<section id="splash-upload" class="hidden">
+<section id="splash-upload" class="weak-hide">
     <div class="container">
         <div class="row">
             
@@ -74,7 +74,7 @@ use Yii\web\view;
 </section>
 
 
-<section id="splash-search" class="hidden">
+<section id="splash-search" class="weak-hide">
     <div class="container">    
         <div class="row">
             <div class="col-sm-12">
