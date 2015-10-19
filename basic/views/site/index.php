@@ -2,33 +2,35 @@
 use Yii\web\view;
 
 /* @var $this yii\web\View */
-    $this->title = 'Resume [s]';
-    $this->registerCssFile("css/splashpage.css");
-    $this->registerCssFile("https://fonts.googleapis.com/css?family=Noto+Sans");
-    $this->registerCssFile("css/dropzone.css");
-    $this->registerCssFile("css/animate.css");
-    $this->registerJsFile("js/dropzone.js");
-    $this->registerJsFile("js/splash.js");
-    $this->registerJs("
-    $(function() {
-        Dropzone.autoDiscover = false;
-        var FileUploadDropzone = new Dropzone('#dzForm', {
-	        url: '/basic/web/api/upload',
-	        paramName: 'uploadedFile',
-	        dictDefaultMessage: '',
-        });
-    
-        FileUploadDropzone.on('sending', function(file, xhr, formData) {
-    						formData.append('candidateID', '". $candidateID ."');
-    						});
-    
-        FileUploadDropzone.on('success', function(file, response) {
-    						if (response == 'ERROR') {
-    						alert('There was an error processing your file. Please try again.');
-    						}
-    						});
-      });
-    ",View::POS_HEAD,"dropzone");
+$this->title = 'Resume [s]';
+$this->registerCssFile("css/splashpage.css");
+$this->registerCssFile("css/introjs.css");
+$this->registerCssFile("https://fonts.googleapis.com/css?family=Noto+Sans");
+$this->registerCssFile("css/dropzone.css");
+$this->registerCssFile("css/animate.css");
+$this->registerJsFile("js/dropzone.js");
+$this->registerJsFile("js/splash.js");
+$this->registerJsFile("js/intro.js");
+$this->registerJs("
+$(function() {
+    Dropzone.autoDiscover = false;
+    var FileUploadDropzone = new Dropzone('#dzForm', {
+        url: '/basic/web/api/upload',
+        paramName: 'uploadedFile',
+        dictDefaultMessage: '',
+    });
+
+    FileUploadDropzone.on('sending', function(file, xhr, formData) {
+                        formData.append('candidateID', '". $candidateID ."');
+                        });
+
+    FileUploadDropzone.on('success', function(file, response) {
+                        if (response == 'ERROR') {
+                        alert('There was an error processing your file. Please try again.');
+                        }
+                        });
+  });
+",View::POS_HEAD,"dropzone");
 ?>
 
 <script type="text/javascript">
@@ -44,7 +46,7 @@ use Yii\web\view;
     <div class="container-fluid bigLandingPic">
         <div class="row positive-message">
             <div class="col-sm-12 text-center">
-                <div class="text">Bringing Resumes into the future</div>
+                <div data-step="1" data-intro="Welcome to Resume[s]. Learn about the project in the about us page, or continue with this tutorial to learn how to us this site!" class="text">Bringing Resumes into the future</div>
             </div>
         </div>
         <div class="row main-buttons text-center">
