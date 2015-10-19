@@ -36,7 +36,7 @@ $(function() {
 });
 
 function startTutorial() {
-    $("#tutorial").modal();
+    //$("#tutorial").modal();
 
     /*WIP
     introJs().setOption("showStepNumbers", false);
