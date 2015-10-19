@@ -67,7 +67,7 @@ use Yii\web\view;
                 
             </div>
             <div class="col-sm-3">
-                <input type="button" id="newCandidate" class="btn btn-next addNewCandidateBtn" value="Next Candidate"><span class="glyphicon glyphicon-plus"></span></input>
+                <input type="button" id="newCandidate" class="btn btn-next addNewCandidateBtn" value="Next Candidate"/>
             </div>
         </div>
     </div>
@@ -84,7 +84,7 @@ use Yii\web\view;
                       <span class="input-group-btn">
                         <button class="btn btn-query" type="submit">Search</button>
                       </span>
-                    </div><!-- /input-group -->
+                    </div>
                 </form>
             </div>
         </div>
